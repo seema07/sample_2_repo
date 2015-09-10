@@ -1,4 +1,4 @@
-# Maven verify 
+# Verify a Maven project
 node {
   git url: 'https://github.com/user/repo.git'
   def mvnHome = tool 'M3'
